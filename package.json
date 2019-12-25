@@ -1,0 +1,24 @@
+{
+  "name": "moi",
+  "version": "1.0.0",
+  "scripts": {
+    "dev": "node build/discover.js && serve",
+    "prepare": "pika install"
+  },
+  "devDependencies": {
+    "@pika/web": "^0.6.1",
+    "es-module-shims": "^0.4.6",
+    "path-to-regexp": "^6.1.0",
+    "yamljs": "^0.3.0"
+  },
+  "@pika/web": {
+    "webDependencies": [
+      "es-module-shims",
+      "path-to-regexp",
+      "yamljs"
+    ]
+  },
+  "dependencies": {
+    "directory-tree": "^2.2.4"
+  }
+}

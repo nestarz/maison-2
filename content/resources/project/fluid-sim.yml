@@ -1,0 +1,12 @@
+authors:
+- "Eric Arneback"
+category: project
+description: An implementation of the article "Fast Fluid Dynamics Simulation on the
+  GPU", using C++ and OpenGL 3.3.
+title:  fluid_sim
+tags:
+- opengl
+- fluid
+- simulation
+- 2d
+url: https://github.com/Erkaman/fluid_sim

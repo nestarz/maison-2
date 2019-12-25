@@ -1,0 +1,11 @@
+category: project
+description: regl is a new functional abstraction for wegbl. Using regl is easier
+  than writing raw webgl code because you don't need to manage state or binding. it's
+  also lighter and faster and has less overhead than many existing 3d frameworks.
+  and it has a functional data-driven style inspired by react.
+title:  Regl
+tags:
+- glsl
+- webgl
+- regl
+url: http://regl.party

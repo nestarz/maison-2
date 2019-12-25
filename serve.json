@@ -1,0 +1,9 @@
+{
+  "rewrites": [
+    {
+      "source": "!robots.txt",
+      "destination": "/index.html"
+    }
+  ],
+  "cleanUrls": ["/!robots.txt", "/!favicon.ico", "/!content/**"]
+}

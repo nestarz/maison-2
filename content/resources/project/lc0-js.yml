@@ -1,0 +1,10 @@
+authors:
+- LCZero
+category: project
+description: Chess engine designed to play chess via neural network
+title:  lc0-js
+tags:
+- games
+- neural network
+- machine learning
+url: https://frpays.github.io/lc0-js/engine.html

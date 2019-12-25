@@ -1,0 +1,14 @@
+authors:
+- Adam Bard
+category: project
+description: Learn X in Y minutes is a site for short programming language tutorials
+  designed for professional programmers to get up to speed quickly on a new language.
+  It started as a blog response to a Lua tutorial I saw on HN. I made my own Clojure
+  version, and was encouraged to set up a site and accept contributions via Github.
+  [Github](https://github.com/adambard/learnxinyminutes-docs)
+title:  Learn X in Y minutes
+tags:
+- learning
+- programming
+- tutorials
+url: https://learnxinyminutes.com/

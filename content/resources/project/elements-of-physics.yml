@@ -1,0 +1,12 @@
+authors:
+- Nitin Tulswani
+category: project
+description: Elements of Physics is an interactive simulation which describes different
+  elements of physics like Gravity, Acceleration and Force. Each element is described
+  with different simulation controls.
+title:  Elements of Physics
+tags:
+- learning
+- physics
+- interactive
+url: https://elements-of-physics.surge.sh/

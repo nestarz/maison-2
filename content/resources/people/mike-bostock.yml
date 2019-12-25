@@ -1,0 +1,21 @@
+date: '2019-11-06T07:27:34.633Z'
+project: Untitled
+category: people
+slug: mike-bostock
+url: 'https://bost.ocks.org/mike/'
+title: 'Mike Bostock'
+description: "Michael \"Mike\" Bostock is an American computer scientist and data-visualisation specialist. He is one of the co-creators of Observable and noted as one of the key developers of D3.js,[1] a JavaScript library used for producing dynamic, interactive, online data visualizations.[2] He was also involved in the preceding Protovis framework.\n\n"
+organization: D3
+location:
+    country: US
+interest: '8'
+tags:
+    - web
+    - interactive
+    - visualisation
+    - 'open source'
+    - tools
+    - 'creative coding'
+    - code
+    - cartography
+    - programming

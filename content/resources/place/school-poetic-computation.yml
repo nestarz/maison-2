@@ -1,0 +1,17 @@
+category: place
+description: "The School for Poetic Computation is an artist-run school in New York that was founded in 2013. A small group of students and faculty work closely to explore the intersections of code, design, hardware and theory — focusing especially on artistic intervention. It’s a hybrid of a school, residency and research group. Our motto is: more poetry, less demo"
+location:
+  city: New York
+  country: USA
+title:  The School for Poetic Computation
+tags:
+- interaction
+- design
+- web
+- art
+- hardware
+- school
+- residency
+- research group
+type: residency
+url: https://sfpc.io/

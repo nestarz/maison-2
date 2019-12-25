@@ -1,0 +1,16 @@
+authors:
+- Joshua Koo
+category: project
+description: Notably is a musical viewer and player for NWC (Noteworthy Composer)
+  files. It attempts to parse multiple version of nwc files and renders music notation.
+  It is cross-platform and doesn't require installation, using only browser based
+  technologies like js, canvas and html.
+title:  nwc-viewer
+tags:
+- digital
+- music
+- open source
+- viewer
+- tools
+- midi
+url: https://zz85.github.io/nwc-viewer/

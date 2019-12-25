@@ -1,0 +1,16 @@
+category: people
+description: "This website is the portfolio of Eric Arneback, a Swedish developer currently based in Sweden. I am a developer specializing in Real-time Computer Graphics, mainly using technologies such as OpenGL, WebGL, Unity and Direct3D with the languages Javascript, C++ and C#. I am also skilled in Applied Mathematics, mainly in the areas Computational Geometry, Digital Geometry Processing and Numerical Optimization."
+location:
+  country: Sweden
+title:  "Sylvain CHAILLOU"
+profession:
+- Developer
+- Engineer
+tags:
+- developer
+- real-time
+- computer graphics
+- computational geometry
+- rendering
+- simulation
+url: https://erkaman.github.io/

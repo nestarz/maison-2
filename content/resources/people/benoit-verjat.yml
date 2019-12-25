@@ -1,0 +1,21 @@
+category: people
+description: "Chercheur en design et art, enseignant, g-u-i, dcfvg, médialab, ENSA"
+location:
+  city: Paris
+  country: France
+  workplace:
+  - ENSA
+  - g-u-i
+  - dcfvg
+  - "médialab"
+title:  "Benoît Verjat"
+profession:
+- Enseignant-chercheur
+- Artiste
+- Designer
+tags:
+- art
+- science
+- research
+- digital
+url: http://benoit.verjat.com/

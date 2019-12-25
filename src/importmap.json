@@ -1,0 +1,10 @@
+{
+  "imports": {
+    "build/": "/build/",
+    "layout/": "/src/layout/",
+    "components/": "/src/components/",
+    "pages/": "/src/pages/",
+    "utils/": "/src/utils/",
+    "micro-down": "/src/utils/micro-down.js"
+  }
+}

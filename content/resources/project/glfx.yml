@@ -1,0 +1,7 @@
+url: http://evanw.github.io/glfx.js/
+title:  glfx
+description: An image effects library for JavaScript using WebGL. Adjust photos in your browser in realtime with glfx.js, an image effects library powered by WebGL. It uses your graphics card for image effects that would be impossible to apply in real-time with JavaScript alone.
+category: project
+tags:
+- glsl
+- webgl

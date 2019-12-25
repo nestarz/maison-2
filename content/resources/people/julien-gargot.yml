@@ -1,0 +1,20 @@
+category: people
+description: "Un designer d'interactions, designer de services et développeur basé à Paris."
+location:
+  city: Paris
+  country: France
+  workplace:
+  - g-u-i
+title:  Julien Gargot
+profession:
+- "Développeur"
+- Designer
+tags:
+- interactive
+- web
+- developer
+- research
+- digital
+- design de services
+- sciences cognitives
+url: https://gargot.co/

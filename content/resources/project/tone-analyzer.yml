@@ -1,0 +1,13 @@
+authors:
+- IBM
+category: project
+description: This service uses linguistic analysis to detect joy, fear, sadness, anger,
+  analytical, confident and tentative tones found in text.
+title:  Tone Analyzer
+tags:
+- neural network
+- machine learning
+- nlp
+- linguistic
+- emotions
+url: https://tone-analyzer-demo.ng.bluemix.net/

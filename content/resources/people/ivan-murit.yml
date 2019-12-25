@@ -1,0 +1,17 @@
+category: people
+description: "Génère et agence les formes visuelles à l'aide de modèles de phénomènes naturels."
+location:
+  city: Paris
+  country: France
+title:  Ivan Murit
+profession:
+- Artiste
+- Designer
+tags:
+- science
+- developer
+- research
+- graphism
+- art
+- generative
+url: http://ivan-murit.fr

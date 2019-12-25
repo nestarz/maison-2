@@ -1,0 +1,21 @@
+category: festival
+description: "Over the past few years, generative machine learning and machine creativity have continued grow and attract a wider audience to machine learning. Generative models enable new types of media creation across images, music, and text - including recent advances such as sketch-rnn and the Universal Music Translation Network. This one-day workshop broadly explores issues in the applications of machine learning to creativity and design. We will look at algorithms for generation and creation of new media and new designs, engaging researchers building the next generation of generative models (GANs, RL, etc). We investigate the social and cultural impact of these new models, engaging researchers from HCI/UX communities and those using machine learning to develop new creative tools. In addition to covering the technical advances, we also address the ethical concerns ranging from the use of biased datasets to building tools for better “DeepFakes”. Finally, we'   ll hear from some of the artists and musicians who are adopting machine learning including deep learning and reinforcement learning as part of their own artistic process. We aim to balance the technical issues and challenges of applying the latest generative models to creativity and design with philosophical and cultural issues that surround this area of research."
+location:
+  city: "Montréal"
+  country: Canada
+title:  NIPS Machine Learning for Creativity and Design Workshop
+tags:
+- art
+- data
+- digital
+- architecture
+- sound
+- video
+- design
+- poetry
+- generative
+- neural network
+- machine learning
+- music
+- design
+url: https://nips.cc/Conferences/2018/Schedule?showEvent=10924

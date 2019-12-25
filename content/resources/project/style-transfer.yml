@@ -1,0 +1,12 @@
+authors:
+- Dmitry Kurtaev
+category: project
+description: This is a demonstration of Fast Neural Style deep learning networks by
+  Justin Johnson, Alexandre Alahi and Li Fei-Fei using OpenCV.js.
+title:  Style Transfer
+tags:
+- opencv
+- neural network
+- machine learning
+- image processing
+url: https://dkurtaev.github.io/style_transfer.html

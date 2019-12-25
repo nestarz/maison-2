@@ -1,0 +1,10 @@
+category: tutorial
+title:  An Intro to regl for Data Visualization
+tags:
+- glsl
+- webgl
+- regl
+- data
+- visualisation
+url: https://vallandingham.me/regl_intro.html
+description: "regl is a technology meant to simplify building awesome things with WebGL. Recently, Mikola Lysenko, one of the creators of regl, gave a great talk at OpenVis Conf that got me wanting to spend more time with WebGL and regl in particular - to see how it could be applied to my data visualization work."

@@ -1,0 +1,21 @@
+category: festival
+description: 'The use of Computational Intelligence for the development of artistic
+  systems is a recent, exciting and significant area of research. There is a growing
+  interest in the application of these techniques in fields such as: visual art and
+  music generation, analysis, and interpretation; sound synthesis; architecture; video;
+  poetry; design; and other creative tasks.'
+location:
+  city: Leipzig
+  country: Germany
+title:  EvoMUSART
+tags:
+- art
+- data
+- digital
+- architecture
+- sound
+- video
+- design
+- poetry
+- generative
+url: http://www.evostar.org/2019/cfp_evomusart.php
