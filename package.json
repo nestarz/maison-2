@@ -2,7 +2,7 @@
   "name": "moi",
   "version": "1.0.0",
   "scripts": {
-    "dev": "node build/discover.js && serve",
+    "dev": "node build/src/discover.js && serve",
     "prepare": "pika install"
   },
   "devDependencies": {

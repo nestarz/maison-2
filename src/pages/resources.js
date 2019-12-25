@@ -1,7 +1,9 @@
+import { html } from "utils/html.js";
+
 import "layout/default-layout.js";
 import "components/resource.js";
 
-const css = `
+const css = html`
 <style>
   .resources {
     display: grid;
@@ -30,7 +32,7 @@ const css = `
 </style>
 `
 
-const Resource = resource => `
+const Resource = resource => html`
   <item-resource src="/${resource.path}">s</item-resource>
 `;
 
@@ -38,7 +40,7 @@ class PageResources extends HTMLElement {
   async connectedCallback() {
     const cat = this.getAttribute("category");
     const { default: resources } = await import(`build/resources-${cat}.json`);
-    this.innerHTML = `
+    this.innerHTML = html`
       ${css}
       <default-layout path="resources">
         <div class="resources">${resources.map(Resource).join("")}</div>
